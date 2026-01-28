@@ -5,16 +5,16 @@
 ###
 
 Hi 👋
-My name is () => Kevish Sewliya
+I am () => Kevish Sewliya
 ============================================================================================================================================
 
 const Becoming = role === "problemSolver" ? "💡 Problem Solver" : role === "developer" ? "💻 Web & Mobile Developer" : role === "contributor" ? "🌍 Open Source Contributor" : "📱 Content Creator";
 ----------------------------------------------------------------------
 
 * 🌍  I'm based in Haryana, India
-* 🖥️  Portfolio at [KEVISH IS BLASTING HERE 🔥](https://kevish-is-building.github.io/Portfolio/)
+* 🖥️  Portfolio at [KEVISH IS BLASTING HERE 🔥](https://kevish.dev)
 * ✉️  You can e-mail me at [prokevish07@gmail.com](mailto:prokevish07@gmail.com)
-* 🧠  I'm learning AWS & DevOps & React Native More & More
+* 🧠  I'm learning AWS & DevOps & AI/ML More & More
 * 🤝  I'm open to collaborating on Web & Mobile Devlopment Projects
 * ⚡  Why She left you bro ? [Chill Just Kidding]
 
@@ -23,7 +23,7 @@ const Becoming = role === "problemSolver" ? "💡 Problem Solver" : role === "de
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevish_is_learning) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevish-sewliya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kevish07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kevish_on_x) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KEVISH07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prokevish07@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square)](https://instagram.com/kevish_is_learning) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/kevish-sewliya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat-square)](https://medium.com/@kevish07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=flat-square)](https://x.com/kevish_on_x) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat-square)](https://youtube.com/@KEVISH07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:prokevish07@gmail.com) 
 
 
 
