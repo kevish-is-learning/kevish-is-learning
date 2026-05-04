@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kevish-is-building/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/kevish-is-learning/count.svg?"  />
 </div>
 
 ###
@@ -37,24 +37,24 @@ const Becoming = role === "problemSolver" ? "💡 Problem Solver" : role === "de
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/kevish-is-building">
-        <img src="https://github-readme-stats.vercel.app/api?username=kevish-is-building&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+      <a href="https://github.com/kevish-is-learning">
+        <img src="https://github-readme-stats.vercel.app/api?username=kevish-is-learning&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/kevish-is-building">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=kevish-is-building&theme=dark&hide_border=true" alt="Kevish's GitHub Streak" />
+      <a href="https://github.com/kevish-is-learning">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=kevish-is-learning&theme=dark&hide_border=true" alt="Kevish's GitHub Streak" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/kevish-is-building">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevish-is-building&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" />
+      <a href="https://github.com/kevish-is-learning">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevish-is-learning&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" />
         </a>
     </td>
     <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=kevish-is-building&limit=4&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=kevish-is-learning&limit=4&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
     </td>
   </tr>
   <tr>
